@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SelectColorAgain</string>
+    <string name="btn_name">Описание цвета</string>
+
+    <string-array name="SelectColor">
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Желтый</item>
+        <item>Синий</item>
+    </string-array>
+
+    <string-array name="SelectColorDesc">
+        <item>Описание Крассного цвета</item>
+        <item>Описание Зеленого цвета</item>
+        <item>Описание Желтого цвета</item>
+        <item>Описание Синего цвета</item>
+    </string-array>
+
+</resources>

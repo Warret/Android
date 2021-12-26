@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#333">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:text="Погода в вашем городе"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/user_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginHorizontal="46sp"
+        android:layout_marginTop="47dp"
+        android:backgroundTint="#61FF76"
+        android:textColor="@color/white"
+        android:hint="Введите город"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        android:textColorHint="#BFBFBF"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/main_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="46sp"
+        android:layout_marginBottom="24dp"
+        android:text="Показать погоду" />
+
+    <TextView
+        android:id="@+id/result_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/main_btn"
+        android:layout_below="@+id/user_field"
+        android:layout_marginTop="236dp"
+        android:layout_marginBottom="235dp"
+        android:fontFamily="serif"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:text="тест"
+        android:textStyle="bold" />
+</RelativeLayout>

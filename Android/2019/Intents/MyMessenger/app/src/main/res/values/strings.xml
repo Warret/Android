@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMessenger</string>
+    <string name="btn_name">Отправить</string>
+    <string name="Krasavec">КРАСААВЕЕЦ !!!</string>
+    <string name="hint_text">Введите сообщение</string>
+    <string name="msg_chooser">Выбирай приложение</string>
+</resources>

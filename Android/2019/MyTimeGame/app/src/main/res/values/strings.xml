@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTimeGame</string>
+    <string name="Restart">Начать заного</string>
+    <string name="recordZero">Обнулить рекорд</string>
+</resources>

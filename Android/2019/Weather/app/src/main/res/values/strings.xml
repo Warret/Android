@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="name_or_id">Введите название города или почтовый id</string>
+    <string name="select_weather">Узнать погоду</string>
+    <string name="name_town">Город: %s</string>
+    <string name="temper">Температура %s</string>
+    <string name="strit">На улице %s</string>
+</resources>

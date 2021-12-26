@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Final_tren_before_wsr</string>
+    <string name="Show_btn_text">Показать</string>
+    <string-array name="array_to_listView">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Fore</item>
+        <item>Five</item>
+    </string-array>
+
+</resources>

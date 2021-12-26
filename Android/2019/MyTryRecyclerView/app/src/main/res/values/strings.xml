@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyTryRecyclerView</string>
+    <string name="label_day_of_week">День недели</string>
+    <string name="hintTitle">Заголовок заметки</string>
+    <string name="hint_desc">Описание заметки</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="addNote">Добавить заметку</string>
+    <string name="warrning_fill_filds">Все поля должны быть заполнены</string>
+    <string-array name="daysOfWeek">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>

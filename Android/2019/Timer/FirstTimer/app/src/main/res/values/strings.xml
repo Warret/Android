@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTimer</string>
+    <string name="Start_btn">Запуск</string>
+    <string name="Stop_btn">Пауза</string>
+    <string name="Sbros_btn">Сброс</string>
+    <string name="init_time">0:00:00</string>
+</resources>
